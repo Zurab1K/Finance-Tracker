@@ -173,4 +173,4 @@ Follow the established patterns in the `components/` directory. Use the design s
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Created by Zurabi Kochiashvili
+Created by Zurabi Kochiashvili
