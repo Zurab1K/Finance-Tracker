@@ -40,7 +40,6 @@ A comprehensive, full-stack web application that combines computer science and f
 - **Historical Backtesting**: Model performance validation
 
 ### 🎨 User Experience
-- **Dark/Light Mode**: Seamless theme switching
 - **Responsive Design**: Mobile-first, works on all devices
 - **Interactive Charts**: Powered by Chart.js and Recharts
 - **Financial Color Coding**: Intuitive green/red profit/loss indicators
