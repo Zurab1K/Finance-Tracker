@@ -135,16 +135,6 @@ The build artifacts will be stored in the `dist/` directory.
 3. **Optimize Allocation**: Use the risk slider to find optimal asset allocation
 4. **Check Predictions**: Review AI forecasts for informed decision-making
 
-## 🔧 Customization
-
-### Theme Configuration
-The app uses a custom design system defined in:
-- `src/index.css` - CSS variables and global styles
-- `tailwind.config.ts` - Tailwind configuration
-
-### Adding New Components
-Follow the established patterns in the `components/` directory. Use the design system tokens for consistent styling.
-
 ## 📋 Future Enhancements
 
 - [ ] User authentication system
