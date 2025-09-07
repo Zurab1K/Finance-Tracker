@@ -155,4 +155,4 @@ The build artifacts will be stored in the `dist/` directory.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Created by Zurabi Kochiashvili
+Created by **Zurabi Kochiashvili**
